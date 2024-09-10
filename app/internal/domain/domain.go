@@ -1,4 +1,0 @@
-
-package domain
-
-// Domain models

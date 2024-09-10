@@ -1,4 +1,0 @@
-
-package app
-
-// Application logic

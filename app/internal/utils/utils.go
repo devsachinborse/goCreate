@@ -1,4 +1,0 @@
-
-package utils
-
-// Utility functions

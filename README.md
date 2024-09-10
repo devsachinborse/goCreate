@@ -18,7 +18,7 @@
 To install the `goCreate` CLI tool globally, run:
 
 ```sh
-go install github.com/devsachinborse/goCreate@v0.2.0
+go install github.com/devsachinborse/goCreate@latest
 ```
 
 

@@ -49,7 +49,7 @@ Creating a New Project
 To create a new project with goCreate, use the following command:
 
 ```sh
-goCreate create-project myproject
+goCreate create-project [project-name]
 ```
 Replace [project-name] with the name of your new project and select architecture with one of the following options:
 Standard layout
